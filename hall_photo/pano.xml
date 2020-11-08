@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18007" appversion="6.1.10" start="node3">
+  <panorama id="node3">
+    <input levelingroll="0" width="2153" levelingpitch="0" overlap="1" height="2153" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2153" predecode="0" preload="0" height="2153"/>
+      <level width="1076" predecode="0" preload="0" height="1076"/>
+      <level width="538" predecode="0" preload="0" height="538"/>
+      <level width="269" predecode="1" preload="1" height="269"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-28.9495" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" fovstereographic="270" pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata datetime="" customnodeid="" author="" copyright="" description="" tags="PhotomatixResults1" longitude="-111.82078534" latitude="40.38740331" comment="" heading="-28.9495" nodeid="node3" title="" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" width="180" border="1" bordercolor="0x000000" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" pan="-110.7" tilt="-4.74" distance="2.05976" id="Point02" target="" skinid="ht_node" title="" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafteroutfov="20" zoomspeed="2" zoomoutpause="1" type="crossdissolve" enabled="1" softedge="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomfov="20"/>
+    <autorotate nodedelay="0.00" noderandom="1" useanimation="0" enabled="1" startloaded="0" delay="2.00" speed="0.050" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelingroll="0" width="2155" levelingpitch="0" overlap="1" height="2155" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2155" predecode="0" preload="0" height="2155"/>
+      <level width="1077" predecode="0" preload="0" height="1077"/>
+      <level width="538" predecode="0" preload="0" height="538"/>
+      <level width="269" predecode="1" preload="1" height="269"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-174.061" fovmode="0">
+      <start pan="-173.268" tilt="2.12172" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" fovstereographic="270" pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata datetime="" customnodeid="" author="" copyright="" description="" tags="PhotomatixResults1" longitude="-111.82076476" latitude="40.38741318" comment="" heading="-174.061" nodeid="node1" title="" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" width="180" border="1" bordercolor="0x000000" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" pan="-71.12" tilt="-6.28" distance="2.05976" id="Point01" target="" skinid="ht_node" title="" url="{node3}"/>
+      <hotspot description="" pan="-170.07" tilt="-20.15" distance="4.22182" id="Point02" target="" skinid="ht_node" title="" url="{node4}"/>
+      <hotspot description="" pan="-170.43" tilt="-2.35" distance="8.75561" id="Point03" target="" skinid="ht_node" title="Matra Italian Bakery" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafteroutfov="20" zoomspeed="2" zoomoutpause="1" type="crossdissolve" enabled="1" softedge="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomfov="20"/>
+    <autorotate nodedelay="0.00" noderandom="1" useanimation="0" enabled="1" startloaded="0" delay="2.00" speed="0.050" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" width="2157" levelingpitch="0" overlap="1" height="2157" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2157" predecode="0" preload="0" height="2157"/>
+      <level width="1078" predecode="0" preload="0" height="1078"/>
+      <level width="539" predecode="0" preload="0" height="539"/>
+      <level width="269" predecode="1" preload="1" height="269"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="186.652" fovmode="0">
+      <start pan="80.5982" tilt="-7.34031" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" fovstereographic="270" pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata datetime="" customnodeid="" author="" copyright="" description="" tags="PhotomatixResults1" longitude="-111.82076008" latitude="40.38745098" comment="" heading="186.652" nodeid="node4" title="" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" width="180" border="1" bordercolor="0x000000" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" pan="-37.94" tilt="-1.49" distance="5.71612" id="Point01" target="" skinid="ht_node" title="" url="{node3}"/>
+      <hotspot description="" pan="-8.54" tilt="-1.39" distance="4.22182" id="Point02" target="" skinid="ht_node" title="" url="{node1}"/>
+      <hotspot description="" pan="186.641" tilt="0" distance="4.54342" id="Point03" target="$fwd" skinid="ht_node" title="Matra Italian Bakery" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafteroutfov="20" zoomspeed="2" zoomoutpause="1" type="crossdissolve" enabled="1" softedge="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomfov="20"/>
+    <autorotate nodedelay="0.00" noderandom="1" useanimation="0" enabled="1" startloaded="0" delay="2.00" speed="0.050" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" width="2152" levelingpitch="0" overlap="1" height="2152" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2152" predecode="0" preload="0" height="2152"/>
+      <level width="1076" predecode="0" preload="0" height="1076"/>
+      <level width="538" predecode="0" preload="0" height="538"/>
+      <level width="269" predecode="1" preload="1" height="269"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-160.132" fovmode="0">
+      <start pan="17.2346" tilt="0.54789" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" fovstereographic="270" pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata datetime="Nov 2020" customnodeid="" author="Brandon Lemmon" copyright="" description="Take a tour of the new Mastra Italian Bakery in American Fork, Utah" tags="PhotomatixResults1" longitude="-111.82076007" latitude="40.38749184" comment="This tour was created before the official opening of Mastra" heading="-160.132" nodeid="node2" title="Matra Italian Bakery" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" width="180" border="1" bordercolor="0x000000" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot description="" pan="-359.78" tilt="-0.16" distance="10.0741" id="Point01" target="" skinid="ht_node" title="" url="{node3}"/>
+      <hotspot description="" pan="-343.93" tilt="-0.45" distance="8.75561" id="Point02" target="" skinid="ht_node" title="" url="{node1}"/>
+      <hotspot description="" pan="-342.87" tilt="-16.59" distance="4.54342" id="Point03" target="" skinid="ht_node" title="" url="{node4}"/>
+    </hotspots>
+    <media>
+      <video width="1280" tilt="11.130" rotx="8.000" pansize="10.000" ambientlevel="0.100" nodechangekeep="0" fov="14.650" rotz="0.000" tiltsize="10.000" pan="-251.660" field="90.000" startmutedmobile="1" roty="-2.000" level="1.000" handcursor="0" loop="1" id="Element01" height="720" clickmode="4" stretch="1.000" mode="3">
+        <source url="media/La focaccia genovese di Marinetta dal 1946.mp4"/>
+      </video>
+    </media>
+    <transition zoomout="0" zoomafteroutfov="20" zoomspeed="2" zoomoutpause="1" type="crossdissolve" enabled="1" softedge="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomfov="20"/>
+    <autorotate nodedelay="0.00" noderandom="1" useanimation="0" enabled="1" startloaded="0" delay="2.00" speed="0.050" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" customnodeid="" author="" copyright="" description="" tags="" longitude="" latitude="" comment="" heading="0" nodeid="master" title="" source="" info=""/>
+  </masternode>
+</tour>
