@@ -77,8 +77,8 @@
       <label bordercolor="0x000000" backgroundalpha="1" textalpha="1" textcolor="0x000000" enabled="1" height="20" borderalpha="1" background="1" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" borderradius="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
       <hotspot url="{node3}" pan="-37.94" description="" distance="5.71612" tilt="-1.49" target="" title="Màstra Italian Bakery Bistro" id="Point01" skinid="ht_node"/>
-      <hotspot url="{node1}" pan="-8.54" description="" distance="4.22182" tilt="-1.39" target="" title="Màstra Italian Bakery Bistro" id="Point02" skinid="ht_node"/>
-      <hotspot url="{node2}" pan="174.271" description="" distance="4.54342" tilt="-1.03" target="$fwd" title="Matra Italian Bakery" id="Point03" skinid="ht_node"/>
+      <hotspot url="{node1}" pan="-8.51" description="" distance="4.22182" tilt="-2.35" target="" title="Màstra Italian Bakery Bistro" id="Point02" skinid="ht_node"/>
+      <hotspot url="{node2}" pan="172.841" description="" distance="4.54342" tilt="-1.45" target="$fwd" title="Matra Italian Bakery" id="Point03" skinid="ht_node"/>
       <hotspot url="images/Millpng.png" pan="-278.45" description="" tilt="6.26" target="" title="Grain Mill" id="Point04" skinid="ht_image"/>
       <hotspot url="images/Genova.png" pan="-94.28" description="" tilt="0.11" target="" title="Genova" id="Point05" skinid="ht_image"/>
     </hotspots>
